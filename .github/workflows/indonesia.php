@@ -8,10 +8,10 @@
  * http://docs.whmcs.com/Language_Overrides
  *
  * @package    WHMCS
- * @author     Indonesia Webhoster Community <hendra@jawanet.com>
- * @copyright  Copyright (c) Jawanet 2016
+ * @author     Web Hosting Indonesia
+ * @copyright  Copyright (c) Webhostingindo.com 2020
  * @version    $Id$
- * @link       http://www.jawanet.com/
+ * @link       http://webhostingindo.com/
  */
 
 if (!defined("WHMCS")) die("This file cannot be accessed directly");
